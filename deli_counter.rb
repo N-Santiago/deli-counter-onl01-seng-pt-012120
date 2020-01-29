@@ -5,7 +5,7 @@ if array.length >= 1
   newarray = []
   counter = 1 
   array.each |name|
-  newarray.push("#{name}, #{counter}")
+  newarray.push("#{counter}, #{name}")
   counter += 1 
 end
 puts "The line is currently: #{newarray.join(" ")}"
