@@ -25,6 +25,5 @@ if array.empty? == true
 elsif array.empty? == false 
 puts "Currently serving #{array.shift}."
 end
-end
-now_serving(katz_deli)
+
   
