@@ -12,5 +12,7 @@ array.each_with_index do |value, index|
   end 
 end 
 
-def take_a_number
+def take_a_number(array, name)
+  array.push(name)
+  
   
