@@ -18,10 +18,6 @@ def take_a_number(array, name)
   puts "Welcome, #{name}. You are number #{array.index(name)+1} in line."
   return name, position 
 end
- 
-take_a_number(katz_deli, "Ada") 
-take_a_number(katz_deli, "Grace") 
-take_a_number(katz_deli, "Kent") 
 
 now_serving(array)
 if array.empty? == true
