@@ -4,6 +4,7 @@ def line(array)
 if array.length >= 1 
   newarray = []
   counter = 1 
-  array.each  
+  array.each |name|
+  
   
   
