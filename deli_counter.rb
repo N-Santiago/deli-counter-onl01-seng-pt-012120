@@ -1,2 +1,3 @@
-def take_a_number(element)
+def line(array)
+  
   
