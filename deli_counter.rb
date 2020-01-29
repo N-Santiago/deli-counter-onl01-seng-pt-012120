@@ -1,5 +1,6 @@
 katz_deli = []
 
 def line(array)
-if   
+if array.length <= 0 
+  
   
