@@ -6,6 +6,7 @@ if array.length >= 1
   counter = 1 
   array.each |name|
   newarray.push("#{name}, #{counter}")
+  counter += 1 
 end
 puts "The line is currently: #{newarray.join(" ")}"
 else 
