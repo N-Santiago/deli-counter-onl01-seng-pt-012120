@@ -3,6 +3,7 @@ katz_deli = []
 def line(array)
 if array.length >= 1 
   newarray = []
-  array.push 
+  counter = 1 
+  array.each  
   
   
