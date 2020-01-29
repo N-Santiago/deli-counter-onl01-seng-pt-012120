@@ -1,4 +1,4 @@
-katz_deli = []
+katz_deli = ["Fulano", "Sutano", "Mendago", "Perensejo"]
 
 def line(array)
 if array.length >= 1 
