@@ -26,6 +26,7 @@ take_a_number(katz_deli, "Kent")
 now_serving(array)
 if array.empty == true
   puts "There is nobody waiting to be served!"
-else 
+elsif 
+
   
   
