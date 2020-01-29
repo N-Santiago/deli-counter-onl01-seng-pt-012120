@@ -12,3 +12,5 @@ array.each_with_index do |value, index|
   end 
 end 
 
+def take_a_number
+  
