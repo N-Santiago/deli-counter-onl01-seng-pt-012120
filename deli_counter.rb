@@ -27,3 +27,4 @@ elsif array.empty? == false
   end
 end
   
+now_serving(katz_deli)
