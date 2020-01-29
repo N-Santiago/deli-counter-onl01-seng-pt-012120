@@ -24,6 +24,6 @@ take_a_number(katz_deli, "Grace")
 take_a_number(katz_deli, "Kent") 
 
 now_serving(array)
-if array.empty == TRUE
-  
+if array.empty == true
+  puts 
   
